@@ -50,10 +50,10 @@ chmod +x install.sh
 ##  [❖￤انتظر قليلا ثم يطلب منك ايدي وتوكن خلي ايديك والتوكن مبروك عليك افضل بوت بالتلكرام](https://telegram.me/SH_A_D_O)
 # <p align="center"> ❖￤  للاستفسار راسلني 
 
-  [Mohammed Hisham](https://telegram.me/SH_A_D_O) <br>
+  [abOHEDR](https://telegram.me/SH_A_D_O) <br>
   
-  [TH3BOSS](https://telegram.me/SH_A_D_O) <br>
+  [abOHEDR](https://telegram.me/SH_A_D_O) <br>
   
-  [CH - abOHEDR](https://telegram.me/LLDEV1LL) <br>
+  [CH - abOHEDR](https://telegram.me/@SH_A_D_O) <br>
   
-  [Group abOHEDR](https://telegram.me/lBOSSl)<br>
+  [Group abOHEDR](https://telegram.me/@SH_A_D_O)<br>
