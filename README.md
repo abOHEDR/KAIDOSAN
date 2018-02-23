@@ -1,7 +1,7 @@
 # <p align="center" style="color:#cb3349" > [<< abOHEDR >> V25 (Final Version)](https://telegram.me/SH_A_D_O)
 
  <p align="center" style="color: #14635c;" > بوت abOHEDR الاقوى والاحدث لحمايه المجموعات في التلكرام
-<p align="center"><img src="abOHEDR.jpg" alt="بوت abOHEDR" title="بوت abOHEDR">
+<p align="center"><img src="abOHEDR " alt="بوت abOHEDR" title="بوت abOHEDR">
 
 ***
 
@@ -54,6 +54,6 @@ chmod +x install.sh
   
   [TH3BOSS](https://telegram.me/SH_A_D_O) <br>
   
-  [CH - TH3BOSS](https://telegram.me/LLDEV1LL) <br>
+  [CH - abOHEDR](https://telegram.me/LLDEV1LL) <br>
   
-  [Group Support](https://telegram.me/lBOSSl)<br>
+  [Group abOHEDR](https://telegram.me/lBOSSl)<br>
